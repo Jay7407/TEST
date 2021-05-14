@@ -23,9 +23,9 @@
 </table>
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
  <tr> 
-  <td width="341" height="198" align="center" valign="top" background="F:/Program Files/TEST/images/main_starl.jpg"><img src="F:/Program Files/TEST/images/spacer.gif" width="332" height="175"></td>
-  <td width="100%" align="center" valign="top" background="F:/Program Files/TEST/images/main_menu1.jpg"><p><br>
-    <img src="../images/main_name.gif" width="324" height="168"><//F:/Program Files/TEST>
+  <td width="341" height="198" align="center" valign="top" background="images/main_starl.jpg"><img src="images/spacer.gif" width="332" height="175"></td>
+  <td width="100%" align="center" valign="top" background="images/main_menu1.jpg"><p><br>
+    <img src="images/main_name.gif" width="324" height="168"><//F:/Program Files/TEST>
    </td>
  </tr>
  <tr> 
@@ -42,15 +42,15 @@
   <td colspan="2" ><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <td width="100%" height="18" valign="top">
         <table width="100%" height="1870" border="0" cellpadding="0" cellspacing="0">
-            <td height="50" valign="center"><img src="F:/Program Files/TEST/images/icon_pdf2.gif" width="15" height="17" align="absmiddle">&nbsp;&nbsp;<a href="https://oestx.groupable.app/" target="_blank">Link to New Groupable Secretary Interface</a>
+            <td height="50" valign="center"><img src="images/icon_pdf2.gif" width="15" height="17" align="absmiddle">&nbsp;&nbsp;<a href="https://oestx.groupable.app/" target="_blank">Link to New Groupable Secretary Interface</a>
                  <td width="60%" valign="center">This link will take  you to the New Groupable Secretary Interface </td>
                  </tr>
       <tr>
-          <td height="50" valign="center"><img src=/F:/Program Files/TES/Timages/icon_pdf2.gif" width="15" height="17" align="absmiddle">&nbsp;&nbsp;<a href="https://csi.grandchapteroftexasoes.org/default.aspx?" target="_blank">Link to Original Secretary Interface </a>
+          <td height="50" valign="center"><img src=images/icon_pdf2.gif" width="15" height="17" align="absmiddle">&nbsp;&nbsp;<a href="https://csi.grandchapteroftexasoes.org/default.aspx?" target="_blank">Link to Original Secretary Interface </a>
           <td width="60%" valign="center">This link will take  you to the Original Secretary Interface Read Only</td>
               </tr>
        <tr> 
-          <td height="40" valign="center"><img src="F:/Program Files/TEST/images/icon_pdf2.gif" width="15" height="17" align="absmiddle">&nbsp;&nbsp;<a href="forms/supply order blank.pdf" target="_blank">Order Blank for Supplies</a><br>
+          <td height="40" valign="center"><img src="images/icon_pdf2.gif" width="15" height="17" align="absmiddle">&nbsp;&nbsp;<a href="forms/supply order blank.pdf" target="_blank">Order Blank for Supplies</a><br>
         <td width="49%" valign="center">Revisions for the Constitution are Avaliable on this order blank</td>
        </tr>
        <tr> 
