@@ -14,7 +14,7 @@
 </head>
 
 <body leftmargin="0" topmargin="0">
-<table width="100%" border="0" cellspacing="0" cellpadding="0" background="images/main_menu.jpg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="F:/Program Files/TEST/images/main_menu.jpg">
   <tr> 
     <td width="76%" height="30" rowspan="2">
 <script language="JavaScript" src="menu.js"></script> <script language="JavaScript" src="mainmenu131.js"></script>
@@ -23,7 +23,7 @@
 </table>
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
  <tr> 
-  <td width="341" height="198" align="center" valign="top" background="F:/Program Files/TESTimages/main_starl.jpg"><img src="F:/Program Files/TEST/images/spacer.gif" width="332" height="175"></td>
+  <td width="341" height="198" align="center" valign="top" background="F:/Program Files/TEST/images/main_starl.jpg"><img src="F:/Program Files/TEST/images/spacer.gif" width="332" height="175"></td>
   <td width="100%" align="center" valign="top" background="F:/Program Files/TEST/images/main_menu1.jpg"><p><br>
     <img src="F:/Program Files/TEST/images/main_name.gif" width="324" height="168"><//F:/Program Files/TEST>
    </td>
