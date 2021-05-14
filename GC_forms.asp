@@ -25,7 +25,7 @@
  <tr> 
   <td width="341" height="198" align="center" valign="top" background="F:/Program Files/TEST/images/main_starl.jpg"><img src="F:/Program Files/TEST/images/spacer.gif" width="332" height="175"></td>
   <td width="100%" align="center" valign="top" background="F:/Program Files/TEST/images/main_menu1.jpg"><p><br>
-    <img src="images/main_name.gif" width="324" height="168"><//F:/Program Files/TEST>
+    <img src="../images/main_name.gif" width="324" height="168"><//F:/Program Files/TEST>
    </td>
  </tr>
  <tr> 
