@@ -14,7 +14,7 @@
 </head>
 
 <body leftmargin="0" topmargin="0">
-<table width="100%" border="0" cellspacing="0" cellpadding="0" background="file:///F:/Program Files/TEST/images/main_menu.jpg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="/main_menu.jpg">
   <tr> 
     <td width="76%" height="30" rowspan="2">
 <script language="JavaScript" src="menu.js"></script> <script language="JavaScript" src="mainmenu131.js"></script>
